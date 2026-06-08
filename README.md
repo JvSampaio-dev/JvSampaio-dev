@@ -35,7 +35,7 @@ Meu objetivo é crescer como desenvolvedor, adquirir experiência real no mercad
   
   <!-- Frontend -->
   <h4>🌐 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,c" />
   
   <!-- Tools -->
   <h4>🔧 Tools & Others</h4>
